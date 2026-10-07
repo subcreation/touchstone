@@ -67,3 +67,5 @@ until this directory contains:
 
 The README placeholder is the only approved evidence panel until that gate
 passes.
+Clearly labeled observational field records may appear beside it; they are
+not efficacy results and do not satisfy this gate.
