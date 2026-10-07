@@ -31,6 +31,19 @@ npx skills add subcreation/touchstone -g
 The planned corpus, scoring gate, telemetry, and collection status are in
 [benchmarks/README.md](./benchmarks/README.md).
 
+**Field record** (observational, not a benchmark)
+
+From the private work records of the agent team that builds Current, July 28 to
+August 8, 2026: Touchstone was adopted after an agent reported a native app
+working on the strength of build output and source inspection alone, and the
+first real launch failed on both platforms. Over the next two weeks of
+terminal-interface work (July 30 to August 8), the team's own review sent 16
+candidates back before a human was asked to test them, and 15 more that had
+passed automated checks were rejected when tried on real Windows and macOS
+terminals. These counts were read by hand from the team's run log. They are
+field observations from private team records, not a controlled with/without
+comparison.
+
 ## Before And After
 
 Without an evidence discipline:
