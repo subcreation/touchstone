@@ -1,0 +1,4 @@
+interface:
+  display_name: "Touchstone"
+  short_description: "Match every claim to the evidence reality supports"
+  default_prompt: "Apply Touchstone to match each done, working, or verified claim to the evidence class actually reached."
